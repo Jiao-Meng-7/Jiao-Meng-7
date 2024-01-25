@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I aspire to become a data professional, and I'm all about that hustle to keep learning and growing in the data game. I'm diving into data analysis, data science, and data engineering, even though my formal education didn't exactly lead me down the computer science or statistics path. But guess what? I'm not letting that stop me!
+I am a data analytics enthusiast with industrial experience in digital business, equipped with business skills like marketing, product management, and sales, and the capability of communicating with people from diverse cultural backgrounds. 
 
 ## ⚡ Competencies
 - Exploratory Data Analysis
